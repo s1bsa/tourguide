@@ -11,7 +11,3 @@ To run this project:
 4. run docker compose up --build 
 5. after the containers are built navigate to http://localhost:8000/docs and use the fastapi gui to interact with the system (alternatively you could use curl commands)
 6. to access the firebase database the key is provided in the github for the scope of the project during assessment this may be removed in the future so email bidaouik@gmail.com or k24033682@kcl.ac.uk if you would like access. 
-
-demo video
-
-[![Watch the video](https://github.com/s1bsa/tourguide/blob/main/demo/demo.mp4)]
