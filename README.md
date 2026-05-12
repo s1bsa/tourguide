@@ -14,4 +14,4 @@ To run this project:
 
 demo video
 
-[![Watch the video](https://github.com/s1bsa/tourguide/blob/main/demo/demoimage.avif)](https://github.com/s1bsa/tourguide/blob/main/demo/demo.mp4)
+[![Watch the video](https://github.com/s1bsa/tourguide/blob/main/demo/demo.mp4)]
