@@ -1,0 +1,12 @@
+torch
+torchvision
+ultralytics
+tqdm
+Pillow
+datasets
+fastapi
+uvicorn
+firebase-admin
+pika
+prometheus_client
+python-multipart

@@ -1,0 +1,7 @@
+cmake 
+clang 
+pika 
+numpy 
+requests
+huggingface
+prometheus_client
